@@ -112,13 +112,6 @@ elf-binary-analyzer/
 - Dynamic-tag decoding, relocation analysis, and DWARF debug information are not implemented yet.
 - This project is intended for learning and basic inspection, not as a replacement for professional forensic tools.
 
-## 🗺️ Future Enhancements
-
-- [ ] Dynamic dependency analysis using `DT_NEEDED`
-- [ ] Relocation entry analysis
-- [ ] JSON report generation
-- [ ] Automated tests for malformed ELF files
-- [ ] Comparison mode for two binaries
 
 <p align="center">
   <strong>Built with C++17 · Systems Programming · Binary Analysis</strong>
