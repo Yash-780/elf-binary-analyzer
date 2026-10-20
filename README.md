@@ -120,17 +120,6 @@ elf-binary-analyzer/
 - [ ] Automated tests for malformed ELF files
 - [ ] Comparison mode for two binaries
 
-## 📚 References
-
-- [ELF Specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
-- [GNU `readelf` Documentation](https://sourceware.org/binutils/docs/binutils/readelf.html)
-
-## 📄 License
-
-Add a `LICENSE` file to define the terms under which this project can be used and distributed.
-
----
-
 <p align="center">
   <strong>Built with C++17 · Systems Programming · Binary Analysis</strong>
 </p>
